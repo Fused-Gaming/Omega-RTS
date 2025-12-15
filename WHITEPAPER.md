@@ -1,5 +1,3 @@
-# Omega-RTS
-
 # OMEGA R.T.S.
 
 **The Last Strategy Game Ever**
